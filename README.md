@@ -90,7 +90,9 @@ orderdb2/
 ├── dist/                        Native Linux build output (gitignored in spirit)
 ├── dist-win64/                  Windows x86_64 cross-build output
 ├── dist-win32/                  Windows x86 cross-build output
-└── README_WINDOWS_BUILD.md      Step-by-step Windows cross-compilation guide
+└── Notes/ 
+      └──  README_WINDOWS_BUILD.md  Step-by-step Windows
+                                    cross-compilation guide
 ```
 
 ---
