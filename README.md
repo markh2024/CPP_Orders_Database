@@ -446,8 +446,10 @@ Output: `dist/orderdb_server` and `dist/orderdb_client`.
 
 ### Windows (cross-compiled from Linux)
 
-See `README_WINDOWS_BUILD.md` for the full walkthrough (installing the
+See `README_WINDOWS_BUILD.md`in folder name= Notes  for the full walkthrough (installing the
 MinGW-w64 toolchain, etc). Short version once the toolchain is installed:
+
+### How too  for both 32 bit systems and 64 bit systems 
 
 ```bash
 mkdir build-win64 && cd build-win64
